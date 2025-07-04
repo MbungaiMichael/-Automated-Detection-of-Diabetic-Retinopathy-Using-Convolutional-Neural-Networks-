@@ -35,7 +35,7 @@ This project aims to develop an automated, deep learning-based system utilizing 
 - **Source**: [Diabetic retinopathy Dataset](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-2019-data)
 - **Images**: Retinal fundus photographs
 - **Labels**: Multi-class (0 to 4) based on DR severity
-- **project**: [Project here](https://github.com/MbungaiMichael/Automated-Detection-of-Diabetic-Retinopathy-Using-Convolutional-Neural-Networks/blob/main/Diabetic%20Retinopathy.ipynb)
+- **Project**: [Project here](https://github.com/MbungaiMichael/Automated-Detection-of-Diabetic-Retinopathy-Using-Convolutional-Neural-Networks/blob/main/Diabetic%20Retinopathy.ipynb)
 
 
 ## Workflow
