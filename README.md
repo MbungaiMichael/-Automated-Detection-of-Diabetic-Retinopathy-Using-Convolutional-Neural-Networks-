@@ -1,2 +1,4 @@
-# -Automated-Detection-of-Diabetic-Retinopathy-Using-Convolutional-Neural-Networks-
-his project aims to develop an automated, deep learning-based system using Convolutional Neural Networks (CNNs) to detect and classify diabetic retinopathy stages from retinal fundus images. By leveraging CNN’s powerful feature extraction capabilities, the model can learn to identify thereby eliminating the need for manual feature engineering.
+# Automated Detection of Diabetic Retinopathy Using Convolutional Neural Networks
+Diabetic Retinopathy (DR) is one of the leading causes of blindness in working-age adults worldwide. It is caused by prolonged high blood sugar levels that damage the blood vessels in the retina. Early detection and timely treatment of DR are critical to preventing vision loss. However, manual screening is time-consuming, costly, and highly dependent on the skill and experience of ophthalmologists.
+
+This project aims to develop an automated, deep learning-based system utilizing Convolutional Neural Networks (CNNs) to detect and classify stages of diabetic retinopathy from retinal fundus images. By leveraging CNN’s powerful feature extraction capabilities, the model can learn to identify microaneurysms, hemorrhages, and other DR-related lesions directly from raw images, eliminating the need for manual feature engineering.
