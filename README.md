@@ -24,7 +24,7 @@ This project aims to develop an automated, deep learning-based system utilizing 
 
 - Input Layer: Resized RGB retinal images ( 224x224x3)
 - Convolutional Layers (Conv2D + ReLU)
-- MaxPooling Layers
+- MaxPooling Layers (2*2)
 - Dropout Layers for regularization
 - Fully Connected Dense Layers
 - Output Layer: Softmax activation for multi-class classification
